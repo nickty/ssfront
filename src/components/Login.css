@@ -1,0 +1,17 @@
+form {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  padding: 50px 200px;
+}
+form input {
+  padding: 9px;
+}
+form label {
+  font-size: 25px;
+}
+#root > div > div > form > button {
+  margin-top: 20px;
+  padding: 15px;
+  width: 83px;
+}
